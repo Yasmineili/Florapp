@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SplashTheme" parent="Theme.SplashScreen">
+        // background, animated icon and duration
+        <item name="windowSplashScreenIconBackgroundColor">@color/purple_700</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/flowers_splash</item>
+        <item name="windowSplashScreenAnimationDuration">2000</item>
+        // set the theme for activity that directly follows your splash screen
+        <item name="postSplashScreenTheme">@style/Theme.SplashTheme</item>
+    </style>
+</resources>

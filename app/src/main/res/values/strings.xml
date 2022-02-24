@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FlowerApp</string>
+    <string name="title">The most beautiful flowers in the world</string>
+
+    <string name="carnation">Carnation</string>
+    <string name="carnationDescription">The carnation is not only one of the most beautiful flowers in the world, it is also one of the most famous. It is grown on almost all continents: America, Europe, Asia and Africa. Five types of carnations are currently known: the common, the poet, the Chinese, the crowned and the rock. In relation to its uses, it is worth mentioning the ornamentation.</string>
+
+    <string name="magnolia">Magnolia</string>
+    <string name="magnoliaDescription">The magnolia is a flower that attracts attention due to its soft colors and its beautiful and large petals. It is one of the most famous flowers in the world for its great beauty. It is widely used in decoration, in bouquets, to give away, etc.</string>
+
+    <string name="rose">Rose</string>
+    <string name="roseDescription">The rose is considered the most beautiful flower in the world, which is why it is said to be "the queen of the garden". It is one of the most famous flowers internationally, there are them in different sizes and colors and, in addition, they are super spread all over the world. They are flowers that are used to decorate events, to create perfumes... and much more!</string>
+
+    <string name="sunflower">Sunflower</string>
+    <string name="sunflowerDescription">Sunflowers are well-known flowers worldwide. Their bright yellow color makes these flowers very striking and characteristic. Although they originate from North America, you can currently find them in many countries around the world.</string>
+
+    <string name="hydrangea">Hydrangea</string>
+    <string name="hydrangeaDescription">These flowers are native to South Asia and are also well-known flowers worldwide. It is a flower of unquestionable beauty and is also widely used in decoration. In addition, the hydrangea is one of the preferred flowers for creating bouquets since it provides a lot of volume and texture.</string>
+</resources>

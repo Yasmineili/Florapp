@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FlorApp</string>
+    <string name="title">Las flores mas hermosas del mundo</string>
+
+    <string name="carnation">Clavel</string>
+    <string name="carnationDescription">El clavel no solo es una de las flores más bonitas del mundo, también es una de las más famosas. Se cultiva en casi todos los continentes: América, Europa, Asia y África. Actualmente se conocen cinco tipos de claveles: el común, el poeta, el chino, el coronado y el de roca. En relación a sus usos cabe señalar la ornamentación.</string>
+
+    <string name="magnolia">Magnolia</string>
+    <string name="magnoliaDescription">La magnolia es flor que llama la atención por sus colores suaves y sus preciosos y grandes pétalos. Es una de las flores más famosas del mundo por su gran belleza. Se utiliza mucho en decoración, en ramos de flores, para regalar, etcétera.</string>
+
+    <string name="rose">Rosa</string>
+    <string name="roseDescription">La rosa es considerada la flor más bonita del mundo, por ello se dice que es ‘la reina del jardín’. Es una de las flores más famosas a nivel internacional, las hay en diferentes tamaños y colores y, además están súper repartidas por todo el mundo. Son flores que sirven para decorar eventos, para crear perfumes... ¡y mucho más!</string>
+
+    <string name="sunflower">Girasol</string>
+    <string name="sunflowerDescription">Los girasoles son flores muy conocidas a nivel mundial. Su color amarillo brillante hace que estas flores sean muy llamativas y características. Aunque son originarias de América del Norte, actualmente puedes encontrarlas en multitud de países de todo el mundo.</string>
+
+    <string name="hydrangea">Hortensia</string>
+    <string name="hydrangeaDescription">Estas flores son nativas del sur de Asia y, también son unas flores muy conocidas a nivel mundial. Es una flor de indudable belleza y muy utilizada también en decoración. Además, la hortensia es una de las flores preferidas para la creación de bouquets puesto que aporta mucho volumen y textura.</string>
+</resources>
